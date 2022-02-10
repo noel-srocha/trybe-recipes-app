@@ -6,6 +6,28 @@ This was the last assignment built by [Trybe](www.betrybe.com) for the Front End
 
 As per the time of this current commit, this is the project I'm most proud of!
 
+### The Assignment
+
+*You will develop a recipe app, using the most modern within the React ecosystem: Hooks and Context API!*
+
+*It should be able to see, search, filter, favorite and follow the process of preparing recipes and drinks!*
+
+*The database will have 2 different APIs, one for food and one for drinks.*
+
+*The layout focuses on mobile devices, so all prototypes will be developed on smaller screens.*
+
+### SKills to be Tested
+
+In this project, I was able to:
+
+- Use Redux to manage states;
+- Use the React-Redux library;
+- Use React's Context API to manage states;
+- Use React's Hook useStateUtilizar o React Hook useState
+- Use React's Hook useContext;
+- Use React's Hook useEffect;
+- Create customized Hooks.
+
 
 ### Evaluator Results
 
